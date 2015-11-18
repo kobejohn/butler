@@ -29,6 +29,9 @@ TODO - Add information about adding plugins to the bot
 
 ### Writing your own plugins
 
+@seabre recommends [this](https://github.com/chadev/butler/blob/master/plugins/chacam.ex#L52-L57) as an example for making your own template.
+
+
 ## Adapters
 
 TODO - Give an example of how to use adapters
